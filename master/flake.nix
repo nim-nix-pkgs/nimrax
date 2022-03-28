@@ -11,7 +11,6 @@
   inputs.src-nimrax-master.ref   = "refs/heads/master";
   inputs.src-nimrax-master.owner = "genotrance";
   inputs.src-nimrax-master.repo  = "nimrax";
-  inputs.src-nimrax-master.dir   = "";
   inputs.src-nimrax-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
